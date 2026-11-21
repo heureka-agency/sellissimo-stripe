@@ -1,0 +1,27 @@
+{
+    "name": "sellissimo/stripe",
+    "description": "Stripe for Sellissimo for Statamic 6.",
+    "type": "library",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.3",
+        "sellissimo/core": "^1.0",
+        "stripe/stripe-php": "^20 || ^21 || ^22"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sellissimo\\Stripe\\": "src/"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Stripe for Sellissimo",
+            "slug": "sellissimo-stripe"
+        },
+        "laravel": {
+            "providers": [
+                "Sellissimo\\Stripe\\ServiceProvider"
+            ]
+        }
+    }
+}

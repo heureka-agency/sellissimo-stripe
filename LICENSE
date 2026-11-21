@@ -1,0 +1,69 @@
+Sellissimo Commercial License
+Copyright © 2026 heureka Kreatív Kft.
+
+Scope
+
+These terms apply to the copy of Sellissimo supplied with this agreement. In this
+agreement, “Sellissimo” means the Sellissimo Core, Stripe, Mollie and Flat
+Rate Shipping packages distributed by heureka Kreatív Kft. (“we” or “us”).
+“You” means the individual or organization exercising the rights below.
+
+Development and staging
+
+You may install, evaluate, test and customize Sellissimo free of charge on
+any number of development and staging installations. A site that takes real
+customer orders is a production site, even if it uses a staging domain.
+
+Written production authorization
+
+You may operate a production site during the period covered by written
+authorization from heureka Kreatív Kft. Existing written approvals remain
+valid for the operator, site and period they specify. For continued use
+after that period, obtain an extension or a production site license.
+Access to release files alone grants development and staging rights only.
+
+Production license and renewal
+
+At commercial launch, the first 100 buyers pay USD 49 for one production
+site. The regular price is USD 99 per site. Each purchase includes one year
+of updates and support from the date of purchase. The site
+operator may install any combination of the four packages on that site. Each
+additional production site requires its own license.
+
+Renewal is optional at USD 49 per year for all buyers, including the first
+100. Renewal covers updates and support for one year. You may keep
+using any version covered by your purchase or renewal on the licensed site
+after that coverage ends. Continued production use of a covered version does
+not require annual payment.
+
+Agencies and plugin developers
+
+You may make backup copies and modify Sellissimo for a site you are entitled
+to operate. You may engage an agency or contractor to install, maintain and
+customize Sellissimo on your behalf. Acting for a licensed client does not
+give an agency a license for another client's production site.
+
+You may copy and adapt the bundled local-pickup example and extension
+generator templates, including the code produced by the generator. You may
+publish, distribute and sell independent plugins incorporating that material
+under terms you choose. You retain the rights to your original contributions.
+Your users obtain Sellissimo separately. Except for this express permission
+and the site work permitted above, you may not redistribute, sublicense or
+resell Sellissimo or modified copies of it. Preserve the copyright and
+license notices in copies of the Sellissimo packages you make.
+
+Third-party material
+
+Third-party code and data retain their own licenses. Core includes the
+notices for its address data in resources/address-data-NOTICE.txt,
+resources/address-data-LICENSE.txt and resources/postal-subdivisions-license.txt.
+Core and Flat Rate Shipping include the Vite helper notice in
+resources/vite-plugin-vue-LICENSE.txt. This agreement preserves the rights
+that those third-party licenses grant.
+
+Warranty
+
+Sellissimo is provided as is. To the extent permitted by applicable law, we
+disclaim implied warranties of merchantability and fitness for a particular
+purpose. This agreement preserves rights and remedies that cannot legally be
+excluded.
